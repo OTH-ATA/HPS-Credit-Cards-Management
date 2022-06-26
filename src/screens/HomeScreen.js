@@ -55,6 +55,7 @@ Text: {
         top: -198,
         bottom: 0,
         left: 0,
+        right: 0,
         
         
 },
