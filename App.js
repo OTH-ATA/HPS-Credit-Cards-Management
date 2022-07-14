@@ -6,6 +6,7 @@ import SignUpScreen from './src/screens/SignUpScreen.js';
 import ConfirmEmailScreen from './src/screens/ConfirmEmailScreen.js';
 import NewPasswordScreen from './src/screens/NewPasswordScreen.js';
 import HomeScreen from './src/screens/HomeScreen.js';*/
+import AddCardScreen from './/src/screens/AddCardScreen';
 import Navigation from './src/Navigation/index.js';
 export default function App() {
   return (
